@@ -3,6 +3,7 @@ class Book = {
     this.author = author;
     this.title = title;
     this.genre = genre;
+  }
 }
 
 
