@@ -1,5 +1,5 @@
 
-class Library = {
+class Library  {
   constructor (books = []) {
     this.books = books;
   }
